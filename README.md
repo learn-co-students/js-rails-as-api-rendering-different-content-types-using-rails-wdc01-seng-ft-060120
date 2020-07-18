@@ -280,7 +280,7 @@ This is how we will be displaying our examples going forward.
 
 ## Conclusion
 
-Let's take a step back and consider what all this means because this is
+Let's take a step backs and consider what all this means because this is
 actually huge! Now that you know that Rails can render JSON, you have the
 ability to create entirely independent JavaScript frontends that can communicate
 with Rails backends!
